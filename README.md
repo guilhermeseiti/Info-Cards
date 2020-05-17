@@ -1,5 +1,8 @@
 # **INFO CARDS**
 
+## **Description**
+Simple project to understand and training react props and your components
+
 ## **Template project**
 
 ![](/assets/images/Template_Project.png)
