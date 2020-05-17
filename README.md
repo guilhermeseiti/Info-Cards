@@ -1,17 +1,17 @@
-**# INFO CARDS**
+# **INFO CARDS**
 
-**# Template project**
+## **Template project**
 
 ![](/assets/images/Template_Project.png)
 
 
-**## Installation**
+## **Installation**
 - clone this repository on your desktop
 - npm install
 
 
-**## Running**
+## **Running**
 - npm start
 
 
-**Author:** Guilherme Seiti
+## **Author:** Guilherme Seiti
